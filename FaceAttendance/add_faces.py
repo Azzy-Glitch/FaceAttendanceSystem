@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from tkinter import messagebox
 import customtkinter as ctk
 
-folder_path = ""
+folder_path = "D:/Git Repository/FaceAttendanceSystem/FaceAttendance/data/"
 
 class App(ctk.CTk):
     def __init__(self, title, size):
